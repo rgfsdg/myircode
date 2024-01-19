@@ -1,0 +1,8 @@
+POWER,Dish_Network,0,0,2
+DISCRETE POWER ON,Dish_Network,0,0,41
+POWER,Dish_Network,0,4,2
+PIP ON/OFF,Dish_Network,1,0,58
+PIP LOCATION,Dish_Network,1,0,59
+POSITION,Dish_Network,1,0,59
+CHANNEL +,Denon,2,-1,241
+CHANNEL -,Denon,2,-1,242

@@ -1,0 +1,39 @@
+POWER,Sharp,1,-1,22
+CONT.,NEC1,130,100,2
+DISP.OFF(AUS),NEC1,130,100,8
+POWER,NEC1,130,100,68
+VCR/TV,Panasonic_Old,2,-1,42
+POWER,NEC1,4,-1,8
+OFF TIMER,NEC1,4,-1,14
+OFF TIMER,NEC1,4,-1,27
+TV POWER,Mitsubishi,71,-1,2
+POWER,Mitsubishi,71,-1,2
+TV 2 (MON),Mitsubishi,71,-1,8
+2 (MON),Mitsubishi,71,-1,8
+TV OFF-T OTR,Mitsubishi,71,-1,23
+OFF-T OTR,Mitsubishi,71,-1,23
+TV OFF-T/OTR,Mitsubishi,71,-1,23
+OFF-T/OTR,Mitsubishi,71,-1,23
+OFF-T,Mitsubishi,71,-1,23
+OFF-TV/QTR,Mitsubishi,71,-1,23
+OFF TIMER,Mitsubishi,71,-1,23
+DATA ON SCREEN,Mitsubishi,71,-1,27
+CONTRAST +,Mitsubishi,71,-1,35
+CONTRAST -,Mitsubishi,71,-1,43
+FUNCTION VIDEO,Mitsubishi,71,-1,64
+FUNCTION AUDIO,Mitsubishi,71,-1,80
+TV POSITION,Mitsubishi,71,-1,110
+POSITION,Mitsubishi,71,-1,110
+MONO-CHROME,Mitsubishi,71,-1,129
+POWER,Mitsubishi,71,-1,130
+CONT,Mitsubishi,71,-1,131
+ON GREEN,Mitsubishi,71,-1,169
+VCR POWER,Mitsubishi,87,-1,2
+VCRA POWER,Mitsubishi,87,-1,2
+VCR 2 (MON),Mitsubishi,87,-1,8
+VCR OFF-T OTR,Mitsubishi,87,-1,47
+VCR OFF-T/OTR,Mitsubishi,87,-1,47
+OFF-T,Mitsubishi,87,-1,47
+POWER,Mitsubishi,87,-1,130
+VCRB POWER,Mitsubishi,87,-1,130
+OFF-T OTR,Mitsubishi,87,-1,175

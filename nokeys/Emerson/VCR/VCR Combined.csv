@@ -1,0 +1,53 @@
+0,Proton,21,-1,0
+1,Proton,21,-1,1
+2,Proton,21,-1,2
+3,Proton,21,-1,3
+4,Proton,21,-1,4
+5,Proton,21,-1,5
+6,Proton,21,-1,6
+7,Proton,21,-1,7
+8,Proton,21,-1,8
+9,Proton,21,-1,9
+100,Proton,21,-1,10
+MENU,Proton,21,-1,11
+INPUT,Proton,21,-1,12
+STOP,Proton,21,-1,13
+PLAY,Proton,21,-1,14
+FAST FORWARD >>,Proton,21,-1,15
+REWIND <<,Proton,21,-1,16
+P/S,Proton,21,-1,17
+RECORD,Proton,21,-1,18
+SLOW,Proton,21,-1,19
+POWER,Proton,21,-1,21
+TV/VCR,Proton,21,-1,22
+CH +,Proton,21,-1,23
+CH -,Proton,21,-1,24
+SPEED,Proton,21,-1,27
+CLEAR,Proton,21,-1,28
+EJECT,Proton,21,-1,30
+DISPLAY,Proton,21,-1,31
+CM.SKIP,Proton,21,-1,41
+VCR/TV,Emerson,40,-1,0
+FAST FORWARD >>,Emerson,40,-1,4
+DISPLAY,Emerson,40,-1,6
+CHANNEL-,Emerson,40,-1,8
+PLAY,Emerson,40,-1,10
+PAUSE,Emerson,40,-1,11
+REWIND <<,Emerson,40,-1,12
+EXIT,Emerson,40,-1,15
+CHANNEL +,Emerson,40,-1,16
+MENU,Emerson,40,-1,21
+RECORD,Emerson,40,-1,26
+STOP,Emerson,40,-1,28
+1,Emerson,40,-1,31
+POWER,Emerson,40,-1,32
+2,Emerson,40,-1,33
+3,Emerson,40,-1,34
+4,Emerson,40,-1,35
+5,Emerson,40,-1,36
+6,Emerson,40,-1,37
+7,Emerson,40,-1,38
+8,Emerson,40,-1,39
+9,Emerson,40,-1,40
+0,Emerson,40,-1,41
+EJECT,Emerson,40,-1,61

@@ -1,0 +1,5 @@
+KEY_POWER,RC5,0,-1,12
+txt.question,RC5,0,-1,44
+txt.on,RC5,0,-1,60
+txt.off,RC5,0,-1,63
+m.off,RC5,0,-1,83

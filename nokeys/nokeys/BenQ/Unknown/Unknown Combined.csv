@@ -1,0 +1,10 @@
+KEY_POWER,NEC,96,-1,0
+usersituation,NEC,96,-1,85
+KEY_POWER,NEC,0,48,2
+keystone-larger,NEC,0,48,9
+keystone-smaller,NEC,0,48,10
+keystone-auto,NEC,0,48,17
+CONTRAST,NEC,0,48,17
+OFF,NEC,0,48,78
+KEY_POWER,NEC,0,48,79
+ON,NEC,0,48,79

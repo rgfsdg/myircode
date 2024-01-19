@@ -1,0 +1,13 @@
+Angle_(DVD_Function),NEC,0,246,0
+Zoom_(DVD_Function),NEC,0,246,1
+Mono/Stereo_(Tuner_Function),NEC,0,246,9
+KEY_POWER,NEC,0,246,20
+Slow_(DVD_Function),NEC,0,246,24
+Pre/Tun_(Tuner_Function),NEC,0,246,29
+Prog_(CD_Function),NEC,0,246,31
+Menu_(DVD_Function),NEC,0,246,67
+Repeat_(CD_Function),NEC,0,246,82
+Audio_(DVD_Function),NEC,0,246,85
+Display_RDS_(Tuner_Function),NEC,0,246,86
+Setup_(DVD_Function),NEC,0,246,87
+Title_(DVD_Function),NEC,0,246,95

@@ -1,0 +1,113 @@
+MUTE,Panasonic_Old,0,-1,0
+TV VOLUME ^,Panasonic_Old,0,-1,1
+LAST CH,Panasonic_Old,0,-1,10
+TV MUTE,Panasonic_Old,0,-1,11
+TV VOLUME V,Panasonic_Old,0,-1,13
+TV 1 (Q Z),Panasonic_Old,0,-1,16
+TV 2 (A B C),Panasonic_Old,0,-1,17
+TV 3 (D E F),Panasonic_Old,0,-1,18
+TV 4 (G H I),Panasonic_Old,0,-1,19
+TV 5 (J K L),Panasonic_Old,0,-1,20
+TV 6 (M N O),Panasonic_Old,0,-1,21
+TV 7 (P R S),Panasonic_Old,0,-1,22
+TV 8 (T U V AM),Panasonic_Old,0,-1,23
+TV 9 (W X Y PM),Panasonic_Old,0,-1,24
+TV 0 (? !),Panasonic_Old,0,-1,25
+TV OPERATE,Panasonic_Old,0,-1,32
+TV PROGRAMME ^,Panasonic_Old,0,-1,34
+TV PROGRAMME V,Panasonic_Old,0,-1,35
+VOL ^,Panasonic_Old,0,-1,36
+VOL V,Panasonic_Old,0,-1,37
+TV/VCR,Emerson,40,-1,0
+VCR/TV,Emerson,40,-1,0
+FFWD>>,Emerson,40,-1,4
+CURSOR - RIGHT,Emerson,40,-1,4
+FAST FORWARD >>,Emerson,40,-1,4
+VCR FFWD >>,Emerson,40,-1,4
+SELECT,Emerson,40,-1,6
+DISPLAY,Emerson,40,-1,6
+SEARCH MODE,Emerson,40,-1,7
+CH -,Emerson,40,-1,8
+CHANNEL -,Emerson,40,-1,8
+VCR CH V,Emerson,40,-1,8
+PLAY,Emerson,40,-1,10
+CURSOR - UP,Emerson,40,-1,10
+VCR PLAY >,Emerson,40,-1,10
+PAUSE,Emerson,40,-1,11
+SLOW +,Emerson,40,-1,11
+TV POWER,NEC1,40,-1,11
+VCR PAUSE ,Emerson,40,-1,11
+REWIND <<,Emerson,40,-1,12
+<<REWIND,Emerson,40,-1,12
+CURSOR - LEFT,Emerson,40,-1,12
+VCR REW <<,Emerson,40,-1,12
+SLOW >,Emerson,40,-1,13
+ADD/DELETE,Emerson,40,-1,15
+RESET COUNTER,Emerson,40,-1,15
+EXIT/RESET,Emerson,40,-1,15
+ADD/DELETE (RESET),Emerson,40,-1,15
+CH +,Emerson,40,-1,16
+CHANNEL +,Emerson,40,-1,16
+VCR CH ^,Emerson,40,-1,16
+MEMORY,Emerson,40,-1,20
+COUNTER/MEMORY,Emerson,40,-1,20
+MENU,Emerson,40,-1,21
+RECORD,Emerson,40,-1,26
+VCR REC,Emerson,40,-1,26
+STOP,Emerson,40,-1,28
+CURSOR - DOWN,Emerson,40,-1,28
+,Emerson,40,-1,28
+VCR STOP [],Emerson,40,-1,28
+1,Emerson,40,-1,31
+VCR 1,Emerson,40,-1,31
+POWER,Emerson,40,-1,32
+VCR POWER,Emerson,40,-1,32
+2,Emerson,40,-1,33
+VCR 2,Emerson,40,-1,33
+3,Emerson,40,-1,34
+VCR 3,Emerson,40,-1,34
+4,Emerson,40,-1,35
+VCR 4,Emerson,40,-1,35
+5,Emerson,40,-1,36
+VCR 5,Emerson,40,-1,36
+6,Emerson,40,-1,37
+VCR 6,Emerson,40,-1,37
+7,Emerson,40,-1,38
+VCR 7,Emerson,40,-1,38
+8,Emerson,40,-1,39
+VCR 8,Emerson,40,-1,39
+9,Emerson,40,-1,40
+VCR 9,Emerson,40,-1,40
+0,Emerson,40,-1,41
+VCR 0,Emerson,40,-1,41
+VCR PLUS,Emerson,44,-1,17
+TAPE SPEED,Emerson,44,-1,59
+100/ENT,Emerson,44,-1,61
+VCR 100/ENT,Emerson,44,-1,61
+TV POWER,Zenith,5,1,14
+TV AUDIO MONITOR,NEC1,80,-1,8
+TV POWER,NEC1,80,-1,23
+2 (MON),NEC1,96,-1,14
+SLOW MOTION +,NEC1,96,-1,17
+MONITOR,NEC1,96,-1,21
+VCR1 AUDIO MONITOR,NEC1,96,-1,21
+VCR1 MONITOR,NEC1,96,-1,21
+POWER,NEC1,96,-1,23
+POWER,NEC,96,-1,23
+VTR POWER,NEC1,96,-1,23
+VCR1 POWER,NEC1,96,-1,23
+POWER,NEC2,96,-1,23
+VCR POWER,NEC1,96,-1,23
+VCR1 MTS MONO,NEC1,96,-1,56
+VCR1 TV MONITOR,NEC1,96,-1,99
+SLOW MOTION +,NEC1,96,-1,107
+SPECTRA SONIC,NEC1,96,-1,143
+VCR1 SPECTRA SONIC,NEC1,96,-1,143
+VCR2 AUDIO MONITOR,NEC1,96,158,21
+VCR2 MONITOR,NEC1,96,158,21
+POWER,NEC1,96,158,23
+VCR2 POWER,NEC1,96,158,23
+CAM POWER,NEC1,96,158,23
+VCR2 MTS MONO,NEC1,96,158,56
+VCR2 TV MONITOR,NEC1,96,158,99
+VCR2 SPECTRA SONIC,NEC1,96,158,143

@@ -1,0 +1,9 @@
+KEY_POWER,RC5,0,-1,12
+txtonoff,RC5,0,-1,45
+KEY_POWER,Nokia32,13,80,12
+txt_Question,RECS80,7,-1,6
+Mon/TV,RECS80,7,-1,40
+spk_off,RECS80,7,-1,42
+contrast_plus,RECS80,7,-1,56
+contrast_minus,RECS80,7,-1,57
+KEY_POWER,RECS80,7,-1,60

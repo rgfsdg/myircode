@@ -1,0 +1,125 @@
+CURSOR DOWN,Pioneer,163,-1,152
+STOP,Pioneer,163,-1,152
+CONDITION MEMORY,NEC2,163,-1,153
+POWER,NEC2,163,-1,153
+SLOW MOTION -,NEC2,163,-1,153
+SLOW MOTION +,NEC2,163,-1,153
+ANGLE,Pioneer,163,-1,153
+,Pioneer,163,-1,153
+ASPECT,Pioneer,163,-1,153
+AUDIO MODE,Pioneer,163,-1,153
+CHAPTER/TIME,Pioneer,163,-1,153
+DISPLAY,Pioneer,163,-1,153
+MENU,Pioneer,163,-1,153
+POWER,Pioneer,163,-1,153
+RETURN,Pioneer,163,-1,153
+STEP<<,Pioneer,163,-1,153
+STEP>>,Pioneer,163,-1,153
+SUBTITLE,Pioneer,163,-1,153
+TITLE,Pioneer,163,-1,153
+0,Pioneer,163,-1,153
+1,Pioneer,163,-1,153
+2,Pioneer,163,-1,153
+3,Pioneer,163,-1,153
+4,Pioneer,163,-1,153
+5,Pioneer,163,-1,153
+6,Pioneer,163,-1,153
+7,Pioneer,163,-1,153
+8,Pioneer,163,-1,153
+9,Pioneer,163,-1,153
++10,Pioneer,163,-1,153
+A-B,Pioneer,163,-1,153
+CLEAR,Pioneer,163,-1,153
+CONDITION MEMORY,Pioneer,163,-1,153
+CURSOR DOWN,Pioneer,163,-1,153
+CURSOR LEFT,Pioneer,163,-1,153
+CURSOR RIGHT,Pioneer,163,-1,153
+CURSOR UP,Pioneer,163,-1,153
+ENTER,Pioneer,163,-1,153
+LAST MEMORY,Pioneer,163,-1,153
+OPEN/CLOSE,Pioneer,163,-1,153
+PROGRAM,Pioneer,163,-1,153
+RANDOM,Pioneer,163,-1,153
+REPEAT,Pioneer,163,-1,153
+SEARCH MODE,Pioneer,163,-1,153
+SETUP,Pioneer,163,-1,153
+SLOW -,Pioneer,163,-1,153
+SLOW +,Pioneer,163,-1,153
+TOP MENU,Pioneer,163,-1,153
+CHP/TIME,Pioneer,163,-1,153
+CONDITION,Pioneer,163,-1,153
+DISC SIDE,Pioneer,163,-1,153
+LAST MEMO,Pioneer,163,-1,153
+MODE,Pioneer,163,-1,153
+SIDE A/B,Pioneer,163,-1,153
+AUDIO,Pioneer,163,-1,153
+DOWNV,Pioneer,163,-1,153
+LEFT<,Pioneer,163,-1,153
+RIGHT>,Pioneer,163,-1,153
+STEP<,Pioneer,163,-1,153
+STEP>,Pioneer,163,-1,153
+UP^,Pioneer,163,-1,153
+POWER OFF,Pioneer,163,-1,153
+POWER ON,Pioneer,163,-1,153
+CURSOR RIGHT,Pioneer,163,-1,154
+SCAN >>,Pioneer,163,-1,154
+SKIP >>,Pioneer,163,-1,154
+FRAME >>,Pioneer,163,-1,154
+SEARCH >>,Pioneer,163,-1,154
+CURSOR LEFT,Pioneer,163,-1,155
+SCAN <<,Pioneer,163,-1,155
+SKIP <<,Pioneer,163,-1,155
+FRAME <<,Pioneer,163,-1,155
+SEARCH <<,Pioneer,163,-1,155
+SKIP >>,Pioneer,163,-1,156
+NEXT >>,Pioneer,163,-1,156
+NEXT,Pioneer,163,-1,156
+TRACK>,Pioneer,163,-1,156
+SKIP <<,Pioneer,163,-1,157
+PREVIOUS <<,Pioneer,163,-1,157
+PREV,Pioneer,163,-1,157
+TRACK<,Pioneer,163,-1,157
+ENTER,Pioneer,163,-1,158
+PLAY,Pioneer,163,-1,158
+CURSOR UP,Pioneer,163,-1,159
+PAUSE,Pioneer,163,-1,159
+,Pioneer,175,-1,54
+,Pioneer,175,-1,99
+,Pioneer,175,-1,100
+,Pioneer,175,-1,160
+,Pioneer,175,-1,161
+,Pioneer,175,-1,162
+,Pioneer,175,-1,163
+,Pioneer,175,-1,164
+,Pioneer,175,-1,165
+,Pioneer,175,-1,166
+,Pioneer,175,-1,167
+,Pioneer,175,-1,168
+,Pioneer,175,-1,169
+,Pioneer,175,-1,176
+,Pioneer,175,-1,177
+,Pioneer,175,-1,178
+,Pioneer,175,-1,179
+,Pioneer,175,-1,180
+,Pioneer,175,-1,181
+,Pioneer,175,-1,182
+,Pioneer,175,-1,183
+,Pioneer,175,-1,184
+,Pioneer,175,-1,185
+,Pioneer,175,-1,186
+,Pioneer,175,-1,187
+,Pioneer,175,-1,188
+,Pioneer,175,-1,190
+,Pioneer,175,-1,191
+,Pioneer,175,-1,227
+,Pioneer,175,-1,228
+,Pioneer,175,-1,229
+,Pioneer,175,-1,232
+,Pioneer,175,-1,236
+,Pioneer,175,-1,239
+,Pioneer,175,-1,242
+,Pioneer,175,-1,243
+,Pioneer,175,-1,244
+,Pioneer,175,-1,246
+,Pioneer,175,-1,252
+,Pioneer,175,-1,254

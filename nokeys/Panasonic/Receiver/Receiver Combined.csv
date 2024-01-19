@@ -1,0 +1,11 @@
+VOLUME +,Panasonic,160,0,32
+VOLUME -,Panasonic,160,0,33
+MUTE,Panasonic,160,0,50
+DVD,Panasonic,160,0,148
+AUX,Panasonic,160,0,154
+TV,Panasonic,160,0,156
+VCR,Panasonic,160,0,158
+POWER OFF,Panasonic,160,28,61
+PRESET UP,Panasonic,160,4,52
+PRESET DOWN,Panasonic,160,4,53
+TUNER,Panasonic,160,4,164

@@ -1,0 +1,30 @@
+STOPP,Panasonic,144,0,0
+T,Panasonic,144,0,2
+T,Panasonic,144,0,3
+PAUSE,Panasonic,144,0,6
+RECORD,Panasonic,144,0,8
+PLAY,Panasonic,144,0,10
+1,Panasonic,144,0,16
+2,Panasonic,144,0,17
+3,Panasonic,144,0,18
+4,Panasonic,144,0,19
+5,Panasonic,144,0,20
+6,Panasonic,144,0,21
+7,Panasonic,144,0,22
+8,Panasonic,144,0,23
+9,Panasonic,144,0,24
+0,Panasonic,144,0,25
+LJUD,Panasonic,144,0,51
+POWER,Panasonic,144,0,61
+OOOO,Panasonic,144,0,84
+TIMER,Panasonic,144,0,180
+CURSOR UPP,Panasonic,144,1,2
+CURSOR NER,Panasonic,144,1,3
+GER,Panasonic,144,1,4
+NSTER,Panasonic,144,1,5
+LP / SP,Panasonic,144,1,10
+M (MENY),Panasonic,144,1,86
+CURSOR OK,Panasonic,144,1,88
+SHOWVIEW,Panasonic,144,1,93
+AV KANALER,Panasonic,144,1,95
+E (EXIT),Panasonic,144,1,102

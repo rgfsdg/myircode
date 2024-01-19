@@ -1,0 +1,315 @@
+STOP,Panasonic,176,0,0
+STOP [],Panasonic,176,0,0
+OPEN/CLOSE,Panasonic,176,0,1
+SCAN <<,Panasonic,176,0,4
+SLOW/SEARCH <<,Panasonic,176,0,4
+SEARCH <<,Panasonic,176,0,4
+<<SLOW/SEARCH>>,Panasonic,176,0,4
+SCAN >>,Panasonic,176,0,5
+SLOW/SEARCH >>,Panasonic,176,0,5
+SEARCH >>,Panasonic,176,0,5
+,Panasonic,176,0,5
+PAUSE,Panasonic,176,0,6
+STILL/PAUSE ><,Panasonic,176,0,6
+STILL/PAUSE,Panasonic,176,0,6
+,Panasonic,176,0,6
+SLOW <,Panasonic,176,0,7
+PLAY,Panasonic,176,0,10
+PLAY >,Panasonic,176,0,10
+SLOW >,Panasonic,176,0,15
+1,Panasonic,176,0,16
+2,Panasonic,176,0,17
+3,Panasonic,176,0,18
+4,Panasonic,176,0,19
+5,Panasonic,176,0,20
+6,Panasonic,176,0,21
+7,Panasonic,176,0,22
+8,Panasonic,176,0,23
+9,Panasonic,176,0,24
+0,Panasonic,176,0,25
+AUDIO MODE,Panasonic,176,0,51
+AUDIO,Panasonic,176,0,51
+POWER,Panasonic,176,0,61
+POWER ON,Panasonic,176,0,62
+POWER OFF,Panasonic,176,0,63
+A-B,Panasonic,176,0,72
+A-B REPEAT,Panasonic,176,0,72
+SKIP >>,Panasonic,176,0,73
+SKIP <<,Panasonic,176,0,73
+FRAME <<,Panasonic,176,0,73
+SKIP/SEARCH <<,Panasonic,176,0,73
+SKIP <<,Panasonic,176,0,74
+SKIP >>,Panasonic,176,0,74
+FRAME >>,Panasonic,176,0,74
+SKIP/SEARCH >>,Panasonic,176,0,74
+MENU,Panasonic,176,0,128
+RETURN,Panasonic,176,0,129
+ENTER,Panasonic,176,0,130
+SELECT,Panasonic,176,0,130
+CLEAR,Panasonic,176,0,131
+UP,Panasonic,176,0,133
+CURSOR UP,Panasonic,176,0,133
+CURSOR ^,Panasonic,176,0,133
+DOWN,Panasonic,176,0,134
+CURSOR DN,Panasonic,176,0,134
+CURSOR DOWN,Panasonic,176,0,134
+CURSOR V,Panasonic,176,0,134
+LEFT,Panasonic,176,0,135
+CURSOR LF,Panasonic,176,0,135
+CURSOR LEFT,Panasonic,176,0,135
+CURSOR <,Panasonic,176,0,135
+RIGHT,Panasonic,176,0,136
+CURSOR RT,Panasonic,176,0,136
+CURSOR RIGHT,Panasonic,176,0,136
+CURSOR >,Panasonic,176,0,136
++10,Panasonic,176,0,137
+>10,Panasonic,176,0,137
+REPEAT,Panasonic,176,0,140
+REPEAT MODE,Panasonic,176,0,140
+PLAY MODE,Panasonic,176,0,141
+MARKER,Panasonic,176,0,142
+ANGLE,Panasonic,176,0,144
+SUBTITLE,Panasonic,176,0,145
+DISPLAY,Panasonic,176,0,146
+OFF/ON,Panasonic,176,0,147
+SETUP,Panasonic,176,0,148
+SET UP,Panasonic,176,0,148
+TOP MENU,Panasonic,176,0,155
+TITLE,Panasonic,176,0,155
+V.S.S,Panasonic,176,0,158
+V.S.S.,Panasonic,176,0,158
+0,Denon,2,-1,241
+0,Denon-K,2,1,1
+1,Denon-K,2,1,2
+2,Denon-K,2,1,3
+3,Denon-K,2,1,4
+4,Denon-K,2,1,5
+5,Denon-K,2,1,6
+6,Denon-K,2,1,7
+7,Denon-K,2,1,8
+8,Denon-K,2,1,9
+9,Denon-K,2,1,10
+PAUSE,Denon-K,2,1,22
+STOP,Denon-K,2,1,23
+SKIP >>,Denon-K,2,1,24
+SKIP <<,Denon-K,2,1,25
+FF,Denon-K,2,1,26
+REW,Denon-K,2,1,27
+PLAY,Denon-K,2,1,28
+UP,Denon-K,2,1,32
+DOWN,Denon-K,2,1,33
+RIGHT,Denon-K,2,1,34
+LEFT,Denon-K,2,1,35
+POWER ON,Denon-K,2,1,40
+POWER OFF,Denon-K,2,1,41
+ENTER,Denon-K,2,1,43
+SET UP,Denon-K,2,1,44
+MENU,Denon-K,2,1,45
+SEARCH MODE,Denon,4,-1,158
+,Denon,4,-1,158
+ZOOM,Denon,4,-1,159
+PICTURE ADJUST,Denon,4,-1,160
+PICT. ADJUST,Denon,4,-1,160
+PICADJ,Denon,4,-1,160
+PIC ADJ,Denon,4,-1,160
+DIMMER,Denon,4,-1,161
+PURE DIRECT MEMORY,Denon,4,-1,162
+P.D. MEMORY,Denon,4,-1,162
+POWER OFF,Denon,6,-1,192
+OFF,Denon,6,-1,192
+DVD OFF,Denon,6,-1,192
+SUPER AUDIO CD SETUP,Denon,6,-1,205
+CD/STEREO/MULTI,Denon,6,-1,205
+SUPER AUDIO CD SET,Denon,6,-1,205
+HDMI/DVI FORMAT,Denon,6,-1,208
+HDMI FORMAT,Denon,6,-1,208
+PURE DIRECT SELECT,Denon,6,-1,212
+HDMI/DVI SELECT,Denon,6,-1,213
+HDMI/ DVI SELECT,Denon,6,-1,213
+HDMI SELECT,Denon,6,-1,213
+DISC EXCHANGE,Denon,6,-1,250
+PAGE -,Denon,6,-1,253
+PAGE-,Denon,6,-1,253
+PAGE --,Denon,6,-1,253
+PAGE +,Denon,6,-1,254
+PAGE+,Denon,6,-1,254
+GROUP,Denon,6,-1,255
+SACD SETUP,Denon,8,-1,126
+SASC SETUP,Denon,8,-1,126
+SUPER AUDIO CD,Denon,8,-1,126
+SUPER AUDIO CD SETUP,Denon,8,-1,126
+SUPER AUDIO CD SET,Denon,8,-1,126
+0,Denon,8,-1,129
+6,Denon,8,-1,129
+1,Denon,8,-1,130
+2,Denon,8,-1,131
+3,Denon,8,-1,132
+4,Denon,8,-1,133
+,Denon,8,-1,133
+,Denon{2},8,-1,133
+5,Denon,8,-1,134
+6,Denon,8,-1,135
+7,Denon,8,-1,136
+8,Denon,8,-1,137
+9,Denon,8,-1,138
++10,Denon,8,-1,140
+10,Denon,8,-1,140
+>= 10,Denon,8,-1,140
+>10,Denon,8,-1,140
+SUBTITLE,Denon,8,-1,141
+,Denon,8,-1,141
+,Denon{2},8,-1,141
+AUDIO MODE,Denon,8,-1,142
+AUDIO,Denon,8,-1,142
+ANGLE,Denon,8,-1,143
+OPEN/CLOSE,Denon,8,-1,144
+MENU,Denon,8,-1,145
+RETURN,Denon,8,-1,146
+EXIT,Denon,8,-1,146
+REAPEAT,Denon,8,-1,148
+REPEAT,Denon,8,-1,148
+SKIP +,Denon,8,-1,152
+SKIP FORWARD,Denon,8,-1,152
+SKIP>>,Denon,8,-1,152
+SKIP >>,Denon,8,-1,152
+NEXT TRACK,Denon,8,-1,152
+SKIP >>I,Denon,8,-1,152
+FRAME >>,Denon,8,-1,152
+SKIP>>I,Denon,8,-1,152
+TRACK >>,Denon,8,-1,152
+SKIP -,Denon,8,-1,153
+SKIP REVERSE,Denon,8,-1,153
+SKIP<<,Denon,8,-1,153
+NEXT,Denon,8,-1,153
+SKIP <<,Denon,8,-1,153
+PREVIOUS TRACK,Denon,8,-1,153
+SKIP I<<,Denon,8,-1,153
+FRAME <<,Denon,8,-1,153
+I<<SKIP,Denon,8,-1,153
+<<SKIP,Denon,8,-1,153
+,Denon,8,-1,153
+TRACK <<,Denon,8,-1,153
+FAST FORWARD,Denon,8,-1,154
+SLOW/FAST FORWARD,Denon,8,-1,154
+SLOW>,Denon,8,-1,154
+PREVIOUS,Denon,8,-1,154
+SHUTTLE FORWARD,Denon,8,-1,154
+SEARCH >>,Denon,8,-1,154
+SEARCH >> SLOW,Denon,8,-1,154
+,Denon,8,-1,154
+SLOW MOTION +,Denon{2},8,-1,154
+>>,Denon,8,-1,154
+SCAN >>,Denon,8,-1,154
+FRAME >>,Denon,8,-1,154
+FF,Denon,8,-1,154
+SLOW>>,Denon,8,-1,154
+>>>,Denon,8,-1,154
+FWD,Denon,8,-1,154
+SKIP >>,Denon,8,-1,154
+REWIND,Denon,8,-1,155
+SLOW/FAST REVERSE,Denon,8,-1,155
+SLOW<,Denon,8,-1,155
+SHUTTLE REVERSE,Denon,8,-1,155
+SLOW/FAST FORWARD,Denon,8,-1,155
+SEARCH <<,Denon,8,-1,155
+SEARCH << SLOW,Denon,8,-1,155
+SLOW MOTION -,Denon,8,-1,155
+<<,Denon,8,-1,155
+SCAN <<,Denon,8,-1,155
+FRAME <<,Denon,8,-1,155
+REW,Denon,8,-1,155
+<<SLOW,Denon,8,-1,155
+<<<,Denon,8,-1,155
+REV,Denon,8,-1,155
+SKIP <<,Denon,8,-1,155
+MODE,Denon,8,-1,156
+SLOW/FAST REVERSE,Denon,8,-1,156
+PAUSE,Denon,8,-1,157
+PAUSE/STILL,Denon,8,-1,157
+STILL/PAUSE,Denon,8,-1,157
+PAUSE,Denon,8,-1,158
+PLAY,Denon,8,-1,160
+PLAY >,Denon,8,-1,160
+STOP,Denon,8,-1,161
+PROGRAM/DIRECT,Denon,8,-1,162
+PROG/DIR.,Denon,8,-1,162
+PROG/DIRECT,Denon,8,-1,162
+PROG/DIR,Denon,8,-1,162
+PROGRAM/DIR,Denon,8,-1,162
+PROG./DIRECT,Denon,8,-1,162
+CLEAR,Denon,8,-1,163
+DISC 1,Denon,8,-1,164
+DISC 2,Denon,8,-1,165
+DISC 3,Denon,8,-1,166
+DISPLAY,Denon,8,-1,167
+,Denon,8,-1,167
+INFO,Denon,8,-1,167
+DISC 4,Denon,8,-1,168
+DISC 5,Denon,8,-1,169
+,Denon,8,-1,169
+RANDOM,Denon,8,-1,170
+DISC SKIP,Denon,8,-1,171
+CURSOR UP,Denon,8,-1,172
+UP,Denon,8,-1,172
+C-UP,Denon,8,-1,172
+MENU UP,Denon,8,-1,172
+CURSER UP,Denon,8,-1,172
+C UP,Denon,8,-1,172
+UP ARROW,Denon,8,-1,172
+CURSOR DOWN,Denon,8,-1,173
+DOWN,Denon,8,-1,173
+CURSOR DN,Denon,8,-1,173
+C-DOWN,Denon,8,-1,173
+MENU DOWN,Denon,8,-1,173
+CURSER DN,Denon,8,-1,173
+C DN,Denon,8,-1,173
+DN,Denon,8,-1,173
+,Denon,8,-1,173
+DOWN ARROW,Denon,8,-1,173
+CURSOR RIGHT,Denon,8,-1,174
+RIGHT,Denon,8,-1,174
+CURSOR RT,Denon,8,-1,174
+C-RT,Denon,8,-1,174
+MENU RIGHT,Denon,8,-1,174
+CURSER RT,Denon,8,-1,174
+C RT,Denon,8,-1,174
+RIGHT ARROW,Denon,8,-1,174
+CURSOR LEFT,Denon,8,-1,175
+LEFT,Denon,8,-1,175
+CURSOR LF,Denon,8,-1,175
+C-LF,Denon,8,-1,175
+MENU LEFT,Denon,8,-1,175
+CURSER LEFT,Denon,8,-1,175
+C LF,Denon,8,-1,175
+LEFT ARROW,Denon,8,-1,175
+POWER ON,Denon,8,-1,177
+ON,Denon,8,-1,177
+POWER,Denon,8,-1,177
+DVD ON,Denon,8,-1,177
+SRS.TS,Denon,8,-1,182
+V.S.S.,Denon,8,-1,182
+SRS TS,Denon,8,-1,182
+VIRTUAL,Denon,8,-1,182
+V.S.S,Denon,8,-1,182
+NTSC/PAL,Denon,8,-1,183
+MARKER,Denon,8,-1,185
+A-B REPEAT,Denon,8,-1,186
+A-B,Denon,8,-1,186
+REPEAT A-B,Denon,8,-1,186
+SIDE A/B,Denon,8,-1,186
+CURSOR ENTER,Denon,8,-1,187
+ENTER,Denon,8,-1,187
+SELECT,Denon,8,-1,187
+CURSOR SELECT,Denon,8,-1,187
+SETUP,Denon,8,-1,188
+SET UP,Denon,8,-1,188
+,Denon,8,-1,188
+,Denon{2},8,-1,188
+TOP MENU,Denon,8,-1,189
+TITLE,Denon,8,-1,189
+TOP MENNU,Denon,8,-1,189
+TEST RETURN,Denon,8,-1,189
+MODE,Denon,8,-1,189
+MENU,Denon,8,-1,189
+CALL,Denon,8,-1,190
+FL DISPLAY,Denon,8,-1,191

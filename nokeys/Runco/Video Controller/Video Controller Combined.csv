@@ -1,0 +1,4 @@
+COMPONENT,Sharp,1,-1,3
+POWER ON,Sharp,1,-1,10
+POWER OFF,Sharp,1,-1,11
+POWER,Sharp,1,-1,22
